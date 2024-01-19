@@ -5,7 +5,7 @@
 <h1>Title : TITANIC SURVIVAL PREDICTION </h1>
 
 
-<h3 style="color:red;">NOTE</u> : To View/Download Microsoft Power Bi Dashoard <a href="https://1drv.ms/f/s!AuSHUUJcnYMCgmUd-a4am1hrIznw?e=OsmJyI">Click Here</a></h3>
+<h3>NOTE : To View / Download Microsoft Power Bi Dashoard <a href="https://1drv.ms/f/s!AuSHUUJcnYMCgmUd-a4am1hrIznw?e=OsmJyI">Click Here.</a></h3>
 
 <h2>Introduction :</h2>
 <p>This project revolves around analyzing the Titanic dataset, a common beginner's dataset containing details about passengers, including age, gender, ticket class, fare, cabin, and survival status. The primary aim is to  to determine whether a passenger survived or not. Through this exploration, we seek to uncover patterns within the data, providing valuable insights into the factors influencing survival outcomes on the Titanic.</p>
