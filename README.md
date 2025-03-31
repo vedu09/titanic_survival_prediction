@@ -1,6 +1,3 @@
-# codsoft_taskno_1
-
-<h1>Author : VEDANT GHADGE</h1>
 
 <h1>Title : TITANIC SURVIVAL PREDICTION </h1>
 
